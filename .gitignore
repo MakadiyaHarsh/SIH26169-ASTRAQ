@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+web/node_modules/
+desktop/node_modules/
+
+# Build output
+web/dist/
+desktop/dist/
+desktop/out/
+
+# Python
+server/.venv/
+server/__pycache__/
+server/**/__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Vercel
+.vercel/
+
+# Coverage
+coverage/
