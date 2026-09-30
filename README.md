@@ -20,7 +20,7 @@ ISRO / Department of Space · Software · Smart Automation, Space Technology
 ![Tests](https://img.shields.io/badge/tests-102%20passing-2ea44f)
 
 ### 🔗 [**Open the live prototype**](https://sih-26169-astraq-final.vercel.app/) · no install, runs in your browser
-### 💻 [**Download the Windows app**](../../releases/latest) · `ASTRAQ.exe`, works offline
+
 
 <br/>
 
